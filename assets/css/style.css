@@ -1,0 +1,46 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+  background-color: #56a7af;
+  color: white;
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 3rem;
+}
+
+.header-above {
+  font-size: 2rem;
+  margin-top: 8rem;
+}
+
+.header-below {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 8rem;
+  margin-top: 0;
+  margin-bottom: 4rem;
+  line-height: 1rem;
+}
+
+main {
+  letter-spacing: 0.05rem;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-top: 0.5rem;
+}
+
+footer {
+  font-family: 'Libre Baskerville', serif;
+  margin-top: 5rem;
+}
+
+.icon {
+  margin-right: 1rem;
+}
