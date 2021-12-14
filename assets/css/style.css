@@ -30,6 +30,7 @@ main {
 
 ul {
   list-style-type: none;
+  padding-left: 0;
 }
 
 li {
@@ -43,4 +44,8 @@ footer {
 
 .icon {
   margin-right: 1rem;
+}
+
+.separator-invisible {
+  font-size: 0;
 }
