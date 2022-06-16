@@ -4,6 +4,7 @@ body {
   text-align: center;
   background-color: #56a7af;
   color: white;
+	text-shadow: 2px 2px 15px rgba(15, 15, 15, 0.47);
   margin-top: 10vh;
   margin-bottom: 10vh;
   height: 100%;
@@ -17,7 +18,6 @@ body {
 h1 {
   font-family: 'Libre Baskerville', serif;
   font-size: 3rem;
-  text-shadow: 2px 2px 15px rgba(15, 15, 15, 0.3);
 }
 
 .header-above {
@@ -52,7 +52,6 @@ footer {
 }
 
 .icon-container {
-  margin-right: 1rem;
   font-size: 2rem;
 }
 
@@ -72,4 +71,15 @@ a:visited {
 
 a:active {
   text-decoration: none;
+}
+
+.contact-line {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-item {
+  overflow-wrap: anywhere;
 }
