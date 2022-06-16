@@ -45,10 +45,25 @@ footer {
   margin-top: 5rem;
 }
 
-.icon {
+.icon-container {
   margin-right: 1rem;
+  font-size: 2rem;
 }
 
 .separator-invisible {
   font-size: 0;
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+a:active {
+  text-decoration: none;
 }
